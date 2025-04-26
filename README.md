@@ -50,7 +50,4 @@ Dieses Projekt steht unter der [MIT Lizenz](LICENSE).
 > **Hinweis:**  
 > Dieses Projekt erfolgt ohne Garantie auf Funktion oder Haftung für Schäden, insbesondere durch fehlerhaftes Schalten oder falsche Konfiguration!
 
----
-
-## Beispiel-Schema
 
